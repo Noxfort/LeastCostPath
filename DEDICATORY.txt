@@ -1,0 +1,11 @@
+╔════════════════════════════════════════════════════════════════╗
+║                           DEDICATÓRIA                        	 ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║                        Para Carina,                            ║
+║                                                                ║
+║   Cada etapa deste trabalho, cada decisão e cada linha de      ║
+║   código, foi dedicada a você. Espero que perceba o quanto     ║
+║   pensei em nós enquanto o criava.                             ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝

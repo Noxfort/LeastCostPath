@@ -1,0 +1,39 @@
+====================================================
+        Relatório de Simulação de Mergulho         
+====================================================
+Parâmetros da Nadadora:
+  Massa: 60 kg
+  Velocidade de Nado Desejada (em relação ao fundo): 1.55 m/s
+  Eficiência Metabólica: 20.0%
+  Densidade da Água (rho): 1025 kg/m^3
+  Coeficiente de Arrasto (Cd): 1.0
+  Área Frontal (A): 0.5 m^2
+
+----------------------------------------------------
+               Resultados do Trecho A → B          
+----------------------------------------------------
+Trabalho Mecânico Total: 4190451.57 Joules
+Tempo Total de Percurso: 1 hora, 47 minutos, 31 segundos
+VO2 (Exercício) Absoluto: 9694.33 ml/min
+VO2 (Total incluindo basal) Consumido: 1076.27 Litros
+Intensidade Média do Exercício (METs): 46.16 METs
+Intensidade Predominante do Nado: Moderado
+
+----------------------------------------------------
+               Resultados do Trecho B → C          
+----------------------------------------------------
+Trabalho Mecânico Total: 3063330.82 Joules
+Tempo Total de Percurso: 1 hora, 47 minutos, 31 segundos
+VO2 (Exercício) Absoluto: 7086.81 ml/min
+VO2 (Total incluindo basal) Consumido: 795.89 Litros
+Intensidade Média do Exercício (METs): 33.75 METs
+Intensidade Predominante do Nado: Leve
+
+----------------------------------------------------
+                 Comparativo de Trechos             
+----------------------------------------------------
+O trecho B → C é mais rápido (1 hora, 47 minutos, 31 segundos) comparado ao trecho A → B (1 hora, 47 minutos, 31 segundos).
+Diferença de tempo: 0 segundo
+Diferença de trabalho mecânico: 1127120.7 J
+A velocidade efetiva da nadadora varia devido à influência da correnteza,
+modificando o esforço necessário para manter o deslocamento desejado.
