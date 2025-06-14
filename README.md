@@ -15,6 +15,18 @@ Please ensure all the input layers have the same CRS.
  - Start-point layer: Layer that contains just one start point.
  
  - End-point(s) layer: Layer that contains the destination point(s).
+
+ - Rivers cost raster layer (optional): An optional numeric raster layer that represents additional cost for rivers.
+
+ - Rivers cost raster band (optional): The input band for the rivers cost raster.
+
+ - Urban Perimeter cost raster layer (optional): An optional numeric raster layer. Areas with valid (non-NoData) values in this raster will be considered highly restrictive, and the path will avoid passing through them (making the cost infinite).
+
+ - Urban Perimeter cost raster band (optional): The input band for the urban perimeter cost raster.
+
+ - Vegetation cost raster layer (optional): An optional numeric raster layer that represents additional cost for vegetation.
+ 
+ - Vegetation cost raster band (optional): The input band for the vegetation cost raster.
  
 - Only connect with the nearest end points: If more than one destination are provided, it will find the least cost path to all the end points by default. If enabled, the least cost path will only connect start point with the nearest end point.
 
